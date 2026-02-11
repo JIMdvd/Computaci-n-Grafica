@@ -1,3 +1,0 @@
-C:/Users/varga/OneDrive/Documentos/C.G/entorno_test/semana03_lienzo/build/CMakeFiles/lienzo.dir
-C:/Users/varga/OneDrive/Documentos/C.G/entorno_test/semana03_lienzo/build/CMakeFiles/edit_cache.dir
-C:/Users/varga/OneDrive/Documentos/C.G/entorno_test/semana03_lienzo/build/CMakeFiles/rebuild_cache.dir
