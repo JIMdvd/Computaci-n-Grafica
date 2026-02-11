@@ -8,10 +8,8 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-# Buscar SDL2
 find_package(SDL2 REQUIRED)
 
-# Crear ejecutable (CORREGIDO: sin la carpeta src/)
 add_executable(lienzo
     main.cpp
 )
