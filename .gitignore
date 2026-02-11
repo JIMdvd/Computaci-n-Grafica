@@ -1,0 +1,20 @@
+# Build artifacts
+/build/
+/build/*
+CMakeCache.txt
+CMakeFiles/
+/Makefile
+/*.exe
+/*.dll
+/*.obj
+/*.o
+/*.a
+/*.lib
+*.user
+*.log
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
